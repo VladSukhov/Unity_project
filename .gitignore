@@ -1,0 +1,32 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Rider/Visual Studio
+.vs/
+.idea/
+*.sln
+*.csproj
+*.suo
+*.user
+
+# Windows
+.DS_Store
+Thumbs.db
+
+# Auto-generated
+sysinfo.txt
+*.unitypackage
+*.pdf
+*.md~
+*.tmp
+*.swp
+*.bak
+
+# Keep these (they are small and important)
+!ProjectSettings/ProjectVersion.txt
